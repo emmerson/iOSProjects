@@ -1,4 +1,4 @@
-iOSProjects
-===========
+iOS Projects
+============
 
-MMT2
+Repository for iOS Projects.
